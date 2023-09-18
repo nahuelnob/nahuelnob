@@ -1,11 +1,11 @@
 ### Hi there 👋
-<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=30px/>
-<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=30px/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=30px/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width=30px/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=30px/>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width=30px/>
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" width=30px/>
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=50px/>
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width=50px/>
+
 
 
 
