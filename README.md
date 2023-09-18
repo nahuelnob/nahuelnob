@@ -3,7 +3,8 @@
 >Crucial information necessary for users to succeed.>
 
 ![image](https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa)
-<a href="https://www.flaticon.es/iconos-gratis/css" title="css iconos">Css iconos creados por Freepik - Flaticon</a>
+![image](https://github.com/nahuelnob/nahuelnob/assets/114954864/2f42cf62-0857-41d2-8a02-44e3e4cbf8f0)
+
 
 
 Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
