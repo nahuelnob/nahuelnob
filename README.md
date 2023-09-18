@@ -1,6 +1,6 @@
 ### Hi there 👋
-[!IMPORTANT]
-Crucial information necessary for users to succeed.
+>[!IMPORTANT]
+>Crucial information necessary for users to succeed.
 
 Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
