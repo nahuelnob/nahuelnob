@@ -2,7 +2,8 @@
 >[!IMPORTANT]
 >Crucial information necessary for users to succeed.>
 
-<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512">a</svg>
+![image](https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa)
+
 
 Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
