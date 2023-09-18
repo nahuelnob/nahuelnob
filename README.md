@@ -1,6 +1,8 @@
 ### Hi there 👋
 >[!IMPORTANT]
 >Crucial information necessary for users to succeed.
+>
+><i class="fa-solid fa-shield-halved"></i>
 
 Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
