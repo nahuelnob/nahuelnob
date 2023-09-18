@@ -1,13 +1,4 @@
 ### Hi there 👋
-<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=50px/>
-<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=50px/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=50px/>
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width=50px/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=50px/>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width=50px/>
-
-
-
 
 ### Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
@@ -24,6 +15,17 @@ Estoy emocionado por seguir desarrollándome profesionalmente y abierto a nuevas
 <!--
 **nahuelnob/nahuelnob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=50px/>
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width=50px/>
+
+>[!IMPORTANT]
+>Nahue
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -35,5 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->[!IMPORTANT]
->Nahue
