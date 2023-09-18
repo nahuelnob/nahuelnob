@@ -1,7 +1,8 @@
 ### Hi there 👋
 >[!IMPORTANT]
 >Crucial information necessary for users to succeed.>
-<a><i class="fa-solid fa-shield-halved"></i><a/>
+
+<img src='https://imgs.search.brave.com/UtmBRE2uMVKCGvYr-Ufs4f8GMP99aA1DFMJhnfoSefM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lMDAt/ZWxtdW5kby51ZWNk/bi5lcy9hc3NldHMv/bXVsdGltZWRpYS9p/bWFnZW5lcy8yMDIz/LzA0LzEyLzE2ODEz/MTE1NTQwMDA1Lmpw/Zw' />
 
 Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
