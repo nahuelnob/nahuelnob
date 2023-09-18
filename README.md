@@ -1,14 +1,12 @@
 ### Hi there 👋
 >[!IMPORTANT]
 >Nahue
-<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa"  width=30px/>
-![image](https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa)
-![image](https://github.com/nahuelnob/nahuelnob/assets/114954864/2f42cf62-0857-41d2-8a02-44e3e4cbf8f0)
-
-<a class="social-icon" href="https://www.linkedin.com/in/nahuel-santini-447353241/" target="_blank"> <i class="fab fa-linkedin-in"></i></a>
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=30px/>
+<img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=30px/>
 
 
-Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
+
+###Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
 Mi búsqueda constante de crecimiento personal y profesional me ha llevado a enfrentar desafíos en el emocionante mundo de la tecnología. 
 
