@@ -1,12 +1,11 @@
 ### Hi there 👋
->[!IMPORTANT]
->Nahue
 <img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/cdf1181b-2662-4e11-8fa8-0add77a7d1aa" width=30px/>
 <img src="https://github.com/nahuelnob/nahuelnob/assets/114954864/aba171f5-d0da-41fa-b5a7-141fe866ff2e" width=30px/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=30px/>
 
 
 
-###Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
+### Soy Nahuel, un desarrollador Full Stack Jr y Data Science jr. 
 
 Mi búsqueda constante de crecimiento personal y profesional me ha llevado a enfrentar desafíos en el emocionante mundo de la tecnología. 
 
@@ -32,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+>[!IMPORTANT]
+>Nahue
