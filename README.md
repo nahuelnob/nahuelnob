@@ -1,5 +1,5 @@
 <h3 align="center">Nahuel Santini</h3>
-
+![nahue](https://github.com/nahuelnob/nahuelnob/assets/114954864/3f74734c-ec99-4740-9dbe-dcb02e2cf7cb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
