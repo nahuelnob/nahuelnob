@@ -1,5 +1,21 @@
 <h3 align="center">Nahuel Santini</h3>
 
+Lenguajes
+
+
+![python](https://github.com/nahuelnob/nahuelnob/assets/114954864/d6521331-3dd9-44d2-843a-df486d6f7c4b)
+![js](https://github.com/nahuelnob/nahuelnob/assets/114954864/87de4b64-d027-4204-bd69-9e9c17d378c3)
+![css](https://github.com/nahuelnob/nahuelnob/assets/114954864/bd71a0f9-38e2-4383-a72d-e3862ba79e1b)
+
+<hr/>
+Frontend
+
+![react](https://github.com/nahuelnob/nahuelnob/assets/114954864/bfdc3744-8049-46ad-aeaf-88082c6705af)
+![redux](https://github.com/nahuelnob/nahuelnob/assets/114954864/6261f61c-a627-4461-8bae-d4f98cdf9444)
+
+![node](https://github.com/nahuelnob/nahuelnob/assets/114954864/87b7b344-e3f4-496d-abe8-287dadb1301b)
+
+![postgre](https://github.com/nahuelnob/nahuelnob/assets/114954864/a6f9945a-ea17-4926-88ad-8d19462c791d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
