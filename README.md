@@ -24,14 +24,6 @@
 >
 >https://countriesnahuesantini.vercel.app/
 
-><h3>Contact</h3>
->
->![wapp](https://github.com/nahuelnob/nahuelnob/assets/114954864/1bf1e602-f5b1-4377-a920-b40a39ae0566)
-><a href="https://www.linkedin.com/in/nahuesantini/" target="blank">![linkedin](https://github.com/nahuelnob/nahuelnob/assets/114954864/b98f5619-ab63-432a-b0e0-8b2eadf1230d)</a>
-![gmail](https://github.com/nahuelnob/nahuelnob/assets/114954864/caa9da52-20b9-4c74-9ca0-9a9784b052e9)
-
-
-
 
 
   
