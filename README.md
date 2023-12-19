@@ -31,9 +31,7 @@
 
 ><h3>Deploy Projects</h3>
 >
->https://countriesnahuesantini.vercel.app/ <br/>
-
->https://codecraftedtemplates.vercel.app/
+>https://codecraftedtemplates.vercel.app/<br/>
 
 
 
