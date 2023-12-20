@@ -1,4 +1,3 @@
-<img src="https://res.cloudinary.com/nahuesantini/image/upload/v1702420611/brand/logo_sljynx.jpg">
 ><h2>Nahuel Santini</h2>
 ><h3>FullStack Dev | DataScience jr.</h3>
 <br>
