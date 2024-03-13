@@ -31,7 +31,7 @@
 
 ><h3>Deploy Projects</h3>
 >
->https://https://nahuelsantini.vercel.app/<br/>
+>https://nahuelsantini.vercel.app/<br/>
 >https://endast.com.ar/<br/>
 >https://codecraftedtemplates.vercel.app/<br/>
 
