@@ -18,7 +18,7 @@
 >![css](https://github.com/nahuelnob/nahuelnob/assets/114954864/bd71a0f9-38e2-4383-a72d-e3862ba79e1b)
 >
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelnob&cache_seconds=3600)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelnob&cache_seconds=3600](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelnob&layout=donut-vertical))
 
 ><h3>tools</h3>
 >
