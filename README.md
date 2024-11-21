@@ -1,4 +1,4 @@
-><h2>Nahuel Santini</h2>
+><h2 style="text-align:center">Nahuel Santini</h2>
 ><h3>FullStack Dev | DataScience jr.</h3>
 <br>
 
